@@ -40,5 +40,8 @@ The distribution of rice production correlates with geographical and economic fa
 ## Data 
 From kaggle website
 
+## Link to data
+https://www.kaggle.com/datasets/shahriarkabir/global-rice-production-statistics-dataset
+
 ## Future Scope
 The advanced visualizations of global rice production and yield metrics offer a foundational platform for multidimensional analyses that can inform stakeholders across the agricultural sector. By integrating predictive modeling, real-time data integration, and deeper comparative analytics, these tools can guide farmers, policymakers, and researchers. Future enhancements could also include interactive elements and educational resources to make the data more accessible and actionable, thereby supporting strategic decisions in food security and agricultural economics globally.
